@@ -6,8 +6,6 @@ body {
   height: 4rem;
 }
 
-
-
 /* Hero Section */
 
 #Hero-Section {
@@ -45,4 +43,15 @@ body {
     width: 100px;
   }
 
+}
+
+
+.badge-orange {
+  background-color: #ff6200;
+  color: white;
+}
+
+.badge-orange2 {
+  background-color: #1f1f1f;
+  color: white;
 }
