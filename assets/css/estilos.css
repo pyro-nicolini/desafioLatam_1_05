@@ -6,6 +6,11 @@ body {
   height: 4rem;
 }
 
+.navbar {
+  font-size: 20px;
+  font-weight: 700;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -24,7 +29,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
-
 }
 
 /* Contacto */
@@ -39,16 +43,18 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
-    width: 100px;
+  .navbar-brand {
   }
-
 }
-
 
 .orange {
-  color: #ff6200;
+  color: #ff6200 !important;
 }
+
+.nav-link:hover {
+  color: #ff3c00 !important;
+}
+
 .badge-orange {
   background-color: #ff6200;
   color: white;
