@@ -4,7 +4,7 @@ body {
 
 button {
   border-radius: 30px !important;
-  width: 10rem;
+  width: 8rem;
 }
 
 .navbar img {
@@ -19,7 +19,7 @@ button {
 /* Hero Section */
 
 #Hero-Section {
-  height: 38rem;
+  height: 40rem;
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,7 +28,7 @@ button {
 }
 
 #Mis-trabajos .image-top {
-  height: 22rem;
+  height: 28rem;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
