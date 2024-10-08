@@ -2,6 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+button {
+  border-radius: 30px !important;
+  width: 10rem;
+}
+
 .navbar img {
   height: 4rem;
 }
@@ -22,8 +27,6 @@ body {
   background-attachment: fixed;
 }
 
-/* Mis trabajos */
-
 #Mis-trabajos .image-top {
   height: 22rem;
   background-repeat: no-repeat;
@@ -41,9 +44,6 @@ body {
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
-  }
-
-  .navbar-brand {
   }
 }
 
